@@ -1,0 +1,16 @@
+.normal-class{
+    background-color: rgb(221, 164, 174);
+    font-family: Verdana, "DejaVu Sans",sans-serif ;
+}
+#first-id{
+    color: rgb(10, 10, 235);
+    font-size: 36px;
+}
+.cooler-class{
+    font-size: 24px;
+}
+#second-id{
+    background-color: rgb(125, 214, 125);
+    font-size: 24px;
+    font-weight: bold;
+}
